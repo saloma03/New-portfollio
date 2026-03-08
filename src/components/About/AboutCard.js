@@ -14,11 +14,13 @@ function AboutCard() {
             <span className="purple">Web Instructor</span> at{" "}
             <span className="purple">thaki</span>.
             <br />I graduated with a degree in 
-            <span className="purple">Information Systems</span>.
+            <span className="purple"> Computer Science</span>.
             I am a passionate 
-            <span className="purple">Front-End Developer</span> who enjoys building modern web applications using 
-            <span className="purple">Angular</span>, 
-            <span className="purple">JavaScript</span>, and other modern web technologies.
+            <span className="purple"> Full-stack Developer</span> who enjoys building modern web applications using 
+            <span className="purple"> Angular, React</span>, 
+            <span className="purple">JavaScript</span>, and also I'm using  
+            <span className="purple"> Dotnet </span>for Backend 
+
             <br />
             <br />
             Outside of coding, I love engaging in activities that keep me

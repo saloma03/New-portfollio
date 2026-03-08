@@ -25,8 +25,7 @@ function Projects() {
               imgPath={Ecommerce}
               isBlog={false}
               title="Ecommerce"
-              description=" e-commerce platform with SSR to improve initial load time and
-                                          SEO, featuring secure authentication, a responsive UI, and a fully managed cart system."
+              description="e-commerce platform with SSR to improve initial load time and SEO, featuring secure authentication, a responsive UI, and a fully managed cart system."
               ghLink="https://github.com/saloma03/E-commerce"
               demoLink="https://66e04c47f9201430036a0043--storied-cannoli-406da5.netlify.app/home"
             />
@@ -37,8 +36,7 @@ function Projects() {
               imgPath={Roomly}
               isBlog={false}
               title="Roomly"
-              description="Contributed to a room-rental platform with interactive map search, cloud media upload, and
-visual analytics dashboards."
+              description="Contributed to a room-rental platform with interactive map search, cloud media upload, and visual analytics dashboards."
               ghLink="https://github.com/Al-Mansori/Roomly"
             />
           </Col>
@@ -59,8 +57,7 @@ visual analytics dashboards."
               imgPath={Eshop}
               isBlog={false}
               title="EshopModularMonoliths"
-              description="Designed a scalable e-commerce platform using .NET 8 with Modular Monolith, CQRS, DDD, async messaging
-(RabbitMQ), Redis caching, and full Dockerized infrastructure.
+              description="Designed a scalable e-commerce platform using .NET 8 with Modular Monolith, CQRS, DDD, async messaging (RabbitMQ), Redis caching, and full Dockerized infrastructure.
 "
               ghLink="https://github.com/saloma03/EshopModularMonoliths"
             />
@@ -71,8 +68,7 @@ visual analytics dashboards."
               imgPath={events}
               isBlog={false}
               title="Events system"
-              description="Built a full-stack ASP.NET Core MVC event booking system using 3-Tier Architecture, SQL Server, EF Core, and ASP.NET
-Identity with role-based access control"
+              description="Built a full-stack ASP.NET Core MVC event booking system using 3-Tier Architecture, SQL Server, EF Core, and ASP.NET Identity with role-based access control"
               ghLink="https://github.com/saloma03/Events-System"
             />
           </Col>
@@ -82,10 +78,8 @@ Identity with role-based access control"
               imgPath={EcommerceBackend}
               isBlog={false}
               title="wep api E-commerce project"
-              description="Developing .NET e-commerce application using layered architecture, implementing core domain logic for products,
-cart, and orders with strong OOP principles."
+              description="Developing DotNET e-commerce application using layered architecture, implementing core domain logic for products, cart, and orders with strong OOP principles."
               ghLink="https://github.com/saloma03/E-commerce-"
-              // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
             />
           </Col>
         </Row>
